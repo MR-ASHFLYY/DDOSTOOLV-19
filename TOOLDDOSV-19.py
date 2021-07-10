@@ -20,7 +20,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet V-19 CREW")
 
- print                                "VARIANS 19 CREW"
+    print "VARIANS 19 CREW"
     print "         __     __       _     ___       __    ____    ___  _         _  "
     print "         \ \   / /      / |   / _ \     / _|  |  _ \  | __| \ \      / / "
     print "          \ \ / /_____  | |  | (_) |   | |    | |_) | | __|  \ \ /\ / /  "
