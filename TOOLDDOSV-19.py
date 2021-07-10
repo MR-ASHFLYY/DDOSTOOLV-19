@@ -18,6 +18,7 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
+os.system("figlet MALAYSIAN HACKER")
 
     print
     print "\033[1;32m#############################################################"
