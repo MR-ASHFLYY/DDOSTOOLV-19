@@ -3,19 +3,6 @@ import os
 import time
 import socket
 import random
-def usage():
-    print "\033[1;32m#############################################################"
-    print "#------------------------[\033[1;91mVARIANS 19 CREW\033[1;32m]---------------------#"
-    print "         __     __       _     ___       __    ____    ___  _         _  "
-    print "         \ \   / /      / |   / _ \     / _|  |  _ \  | __| \ \      / / "
-    print "          \ \ / /_____  | |  | (_) |   | |    | |_) | | __|  \ \ /\ / / "
-    print "           \ V /|_____| | |  \__,  |   | |_   |  _<   | |_    \ V  V /    "
-    print "            \_/         |_|     /_/     \__|  |_| \_\ |___|    \_/\_/   "
-    print "------------------------[\033[1;91mLEADER:KUACIBASI\033[1;32m]---------------------#"
-    print "#############################################################"
-    print "                        CREATOR:MR.ASHFLYY"
-    print "                       #WE ARE MALAYSIAN HACKER"
-    print "                       #WE ARE MUSLIM HACKER"
 #Code Time
 from datetime import datetime
 now = datetime.now()
@@ -31,8 +18,21 @@ bytes = random._urandom(1490)
 #############
 
 os.system("clear")
-os.system("figlet VARIANS 19")
 
+    print
+    print "\033[1;32m#############################################################"
+    print "#------------------------[\033[1;91mVARIANS 19 CREW\033[1;32m]---------------------#"
+    print "         __     __       _     ___       __    ____    ___  _         _  "
+    print "         \ \   / /      / |   / _ \     / _|  |  _ \  | __| \ \      / / "
+    print "          \ \ / /_____  | |  | (_) |   | |    | |_) | | __|  \ \ /\ / / "
+    print "           \ V /|_____| | |  \__,  |   | |_   |  _<   | |_    \ V  V /    "
+    print "            \_/         |_|     /_/     \__|  |_| \_\ |___|    \_/\_/   "
+    print "------------------------[\033[1;91mLEADER:KUACIBASI\033[1;32m]---------------------#"
+    print "#############################################################"
+    print "                        CREATOR:MR.ASHFLYY"
+    print "                       #WE ARE MALAYSIAN HACKER"
+    print "                       #WE ARE MUSLIM HACKER"
+    print
 
 
 
