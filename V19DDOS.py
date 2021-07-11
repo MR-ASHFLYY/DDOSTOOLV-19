@@ -2,6 +2,7 @@ import time
 import socket
 import random
 import sys
+os.system("clear")
 def usage():
     print "\033[1;32m#########################################################"
     print "#------------------------[\033[1;91mVARIANS 19 CREW\033[1;32m]---------------------"
